@@ -1,0 +1,2 @@
+data is data>>whatisdata.txt
+echo data is data
